@@ -4,3 +4,9 @@
 [submodule "hackpads/orpheuspad/PCB/OPL_Kicad_Library"]
 	path = hackpads/orpheuspad/PCB/OPL_Kicad_Library
 	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
+[submodule "hackpads/maxiPad/pcb/MX_Alps_Hybrid.pretty"]
+	path = hackpads/maxiPad/pcb/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "hackpads/maxiPad/pcb/random-keyboard-parts.pretty"]
+	path = hackpads/maxiPad/pcb/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
